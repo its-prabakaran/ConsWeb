@@ -1,18 +1,32 @@
 # Siva Infra & Design Consultants
 
-Working static website with a mild navy, sage, warm-gold and cream palette. The company name is prominently highlighted in the fixed header and hero section.
+Unique premium static website inspired by conversion-focused construction websites without replicating the referenced site's branding, wording, layout or proprietary features.
 
-## Included
-- Responsive navigation
-- Service selection
-- Filterable sample project gallery
-- Full-screen image lightbox
-- Project brief builder
-- Enquiry validation
-- Back-to-top control
+## Working features
+- Responsive desktop/mobile navigation
+- Large highlighted Siva Infra branding
+- English/Tamil toggle for hero messages
+- Quick project brief form
+- Animated metrics
+- Service and package enquiry routing
+- Configurable illustrative cost guide
+- Filterable sample project gallery with lightbox
+- Testimonial carousel
+- FAQ accordions
+- Tamil Nadu coverage visualization
+- Validated enquiry download
+- Floating call/WhatsApp placeholders
+- Back-to-top control and scroll animations
 
 ## GitHub Pages
-Upload index.html, styles.css and script.js to a repository root, then enable GitHub Pages for the main branch.
+Extract the ZIP, upload all files to a GitHub repository root, then enable GitHub Pages from the main branch.
 
 ## Before launch
-Replace contact placeholders, sample project names and online demo images with approved business content. Connect the contact form to Formspree, EmailJS or a backend to receive enquiries.
+1. Replace phone, email and address placeholders.
+2. Replace sample imagery and testimonials with approved company content.
+3. Replace engagement/package copy with confirmed commercial scope.
+4. Review and update demonstration rates in script.js.
+5. Replace the floating WhatsApp/contact placeholders with official links.
+6. Connect the form to a secure backend or form provider. The current version validates and downloads the enquiry locally.
+
+Images are loaded from Unsplash and therefore require an internet connection.
